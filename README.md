@@ -7,6 +7,10 @@ Steps to follow:
 
 `pip install nltk`
 
+2)Install flask using the command
+
+`pip install flask`
+
 2)Run the below command to start the project
 
 `py app.py`
